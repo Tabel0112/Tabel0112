@@ -47,5 +47,5 @@ A full-stack mobile sleep-audio product.
 
 - Portfolio: [coming soon](https://tabel0112.github.io)
 - GitHub: [@Tabel0112](https://github.com/Tabel0112)
-- LinkedIn: [add your LinkedIn URL]
-- Email: [add a professional email]
+- LinkedIn: https://www.linkedin.com/in/abel-chen-8728232b8/
+- Email: baiyangchen2007@gmail.com
