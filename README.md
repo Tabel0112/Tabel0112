@@ -1,4 +1,4 @@
-# Hi, I’m [Your Name] 👋
+# Hi, I’m Abel 👋
 
 I’m a developer building thoughtful AI products, reliable mobile experiences, and polished web interfaces.
 
